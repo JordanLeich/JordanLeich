@@ -1,4 +1,4 @@
-![](images/gif.gif "Infinity")
+![Infinity](images/gif.gif "To see a World in a Grain of Sand and a Heaven in a Wild Flower, Hold Infinity in the palm of your hand and Eternity in an hour. William Blake, Auguries of Innocence")
 
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
