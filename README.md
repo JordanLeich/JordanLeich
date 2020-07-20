@@ -1,4 +1,5 @@
-![gif](https://user-images.githubusercontent.com/57107961/87962916-f3ebcf00-ca85-11ea-813e-73905147af5c.gif)
+![Mountains](https://user-images.githubusercontent.com/57107961/87963193-51801b80-ca86-11ea-8dfc-2eb1aad86f57.gif)
+
 
 
 - 🔭 I’m currently working on college studies
