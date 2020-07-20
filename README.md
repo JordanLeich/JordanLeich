@@ -1,5 +1,6 @@
-<a href="https://media0.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif"></a>
-  
+![gif](https://user-images.githubusercontent.com/57107961/87962916-f3ebcf00-ca85-11ea-813e-73905147af5c.gif)
+
+
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
 - 👯 I’m looking to collaborate on anything python related
