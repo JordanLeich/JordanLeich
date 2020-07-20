@@ -1,4 +1,4 @@
-<a href="https://media0.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif"> title="Infinity"
+<a href="https://media0.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif"><title="Infinity"/></a>
   
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
