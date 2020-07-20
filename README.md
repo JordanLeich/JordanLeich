@@ -1,4 +1,4 @@
-![Infinity](images/gif.gif "Infinity")
+![](images/gif.gif "Infinity")
 
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
