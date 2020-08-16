@@ -17,8 +17,6 @@
   <img align="left" alt="Jordan Leich's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-[Portfolio Link](https://jordanleich.github.io/Jordans-Portfolio/)
-
 # About myself :boy:
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
@@ -28,6 +26,8 @@
 - 📫 How to reach me: jordanleich@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a birth mark near my lip that turns my skin and hair solid white
+
+# [Portfolio Link](https://jordanleich.github.io/Jordans-Portfolio/)
 
 # Languages and Tools:
 <code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
