@@ -1,7 +1,7 @@
 # Glad to see you here! 🤩
 
 # Connect with me! 👋
--
+---
 <a href="https://twitter.com/jordanleichiano">
   <img align="left" alt="Jordan Leich's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 <a href="https://www.facebook.com/jordan.leich/">
   <img align="left" alt="Jordan Leich's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> -
+</a> ---
 
 # About myself :boy:
 - 🔭 I’m currently working on college studies
