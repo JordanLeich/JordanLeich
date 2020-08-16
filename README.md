@@ -15,10 +15,8 @@
 </a>
 <a href="https://www.facebook.com/jordan.leich/">
   <img align="left" alt="Jordan Leich's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-.
-.
-.
+</a>.
+
 # About myself :boy:
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
