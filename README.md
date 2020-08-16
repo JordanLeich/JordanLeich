@@ -1,5 +1,5 @@
 # Connect with me: 
-[](https://www.instagram.com/jordanleichiano/?hl=en) <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[link](https://www.instagram.com/jordanleichiano/?hl=en) <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 
 # [Portfolio Link](https://jordanleich.github.io/Jordans-Portfolio/)
