@@ -1,9 +1,8 @@
 # Glad to see you here! 🤩
 
 # Connect with me! 👋
----
 <a href="https://twitter.com/jordanleichiano">
-  <img align="left" alt="Jordan Leich's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Jordan Leich's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jordan-leich-6481b8167/">
   <img align="left" alt="Jordan Leich's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
