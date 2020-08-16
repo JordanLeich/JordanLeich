@@ -1,4 +1,4 @@
-### Hi there, I'm Jordan Leich! 👋
+## Connect with me! 👋
 <a href="https://twitter.com/jordanleichiano">
   <img align="left" alt="Jordan Leich's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
