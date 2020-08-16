@@ -1,4 +1,6 @@
-![Mountains](https://user-images.githubusercontent.com/57107961/87963193-51801b80-ca86-11ea-8dfc-2eb1aad86f57.gif "To see a World in a Grain of Sand and a Heaven in a Wild Flower, Hold Infinity in the palm of your hand and Eternity in an hour - William Blake, Auguries of Innocence")
+# Connect with me: 
+[](https://www.instagram.com/jordanleichiano/?hl=en) <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
 
 # [Portfolio Link](https://jordanleich.github.io/Jordans-Portfolio/)
 
