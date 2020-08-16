@@ -17,8 +17,11 @@
   <img align="left" alt="Jordan Leich's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+</br>
+
 [Portfolio Link](https://jordanleich.github.io/Jordans-Portfolio/)
 
+# About myself :boy:
 - 🔭 I’m currently working on college studies
 - 🌱 I’m currently learning python and github
 - 👯 I’m looking to collaborate on anything python related
