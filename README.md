@@ -1,5 +1,4 @@
-# Connect with me: 
-![](images/instagram.svg https://www.instagram.com/jordanleichiano/?hl=en)
+# Connect with me:
 
 
 # [Portfolio Link](https://jordanleich.github.io/Jordans-Portfolio/)
